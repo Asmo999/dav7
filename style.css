@@ -1,3 +1,22 @@
-header{
+.div {
 	margin-top: 30px;
+	font-family: Lato;
+	margin-left: 30px;
+	font-size: 20px;
+	display: inline-block;
+	margin-right: 650px;
+
+}
+.un {
+	display: inline-block;
+}
+.span{
+	color: #3D37F1;	
+}
+.flexcon {
+	display: flex;
+}
+.flexcon > li {
+	margin: 20px;
+
 }
